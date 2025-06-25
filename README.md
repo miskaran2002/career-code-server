@@ -41,7 +41,7 @@ This is the backend server for the Career Guide application. It provides RESTful
 
 ## Screenshot
 
-![App Screenshot](https://i.ibb.co/93Htf93f/Screenshot-2025-06-24-124608.png)
+![App Screenshot](https://i.ibb.co/Cc5sTq0/Screenshot-2025-06-25-032040.png)
 
 ---
 
